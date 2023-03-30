@@ -79,7 +79,7 @@ SELECT dateofbirth , DATEDIFF(YEAR,dateofbirth,GETDATE()) as Age
 FROM [Legaciegroup Database].dbo.Legacies
 
 
---4. Group Employee age in to 5 categories (20 � 29, 30 � 39, 40-49, 50-59, >60). What age group has the highest and lowest employees
+--4. Group Employee age in to 5 categories (20 – 29, 30 – 39, 40-49, 50-59, >60). What age group has the highest and lowest employees
 
 CREATE VIEW legacieviewtable AS 
 (SELECT dateofbirth , DATEDIFF(YEAR,dateofbirth,GETDATE()) as Age FROM [Legaciegroup Database].dbo.Legacies)
@@ -366,8 +366,26 @@ WHERE DateofTermination IS NOT NULL
 GROUP BY Department
 ORDER BY Terminated_Employee DESC
 
---15. What is the split of terminated employee by Marital Status?SELECT Maritalstatus, COUNT(empid) AS Terminated_Employee
+--15. What is the split of terminated employee by Marital Status?
+
+SELECT Maritalstatus, COUNT(empid) AS Terminated_Employee
 FROM [Legaciegroup Database].dbo.Legacies
 WHERE DateofTermination IS NOT NULL
 GROUP BY Maritalstatus
-ORDER BY Terminated_Employee DESC
+ORDER BY Terminated_Employee DESC
+
+# Insights
+
+• A Total of 104 inactive / terminated employees which either voluntarily terminated or terminated for a certain stated cause. 88 Employees terminated voluntarily while 16 employees terminated for a stated cause.
+
+• The Top 3 employee termination reason are Another position offered, unhappiness and for more money. This implies that employees got job offers for another position, moved to jobs that made them feel happier or moved onto jobs with better pay.
+
+• The most terminations come from the production Department that is production Technician 1 and 2 positions. A total of 83 terminated employees from the production Department.
+
+• Inactive / Terminated employees are mostly Us Citizens. They are either white or black / African American
+
+• Terminated employee by age groups are mostly early adults or Middle aged who are Mostly Married.
+
+• Terminated employees stayed an average of 3.4 years and up to a maximum of 9 years before termination.
+
+•Generally, employees who do well or fully meet the Job requirements accounts for the most terminated employees. This is likely caused by unhappiness in the role and poor salary
