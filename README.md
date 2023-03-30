@@ -15,6 +15,12 @@ You have been contacted as a HR Analytics consultant
 to provide an in-depth analysis of what is happening in 
 Legacies Group .
 
+
+https://github.com/bopitien/Legacies-Group-HR-Analytics-SQL/blob/main/dashboard1.PNG
+
+https://github.com/bopitien/Legacies-Group-HR-Analytics-SQL/blob/main/dashboard2.PNG
+
+
 ## key Insights
 
 • A Total of 104 inactive / terminated employees which either
