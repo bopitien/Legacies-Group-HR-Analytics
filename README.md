@@ -16,7 +16,7 @@ to provide an in-depth analysis of what is happening in
 Legacies Group .
 
 
-https://github.com/bopitien/Legacies-Group-HR-Analytics-SQL/blob/main/dashboard1.PNG
+![dashboard1](https://github.com/bopitien/Legacies-Group-HR-Analytics-SQL/blob/main/dashboard1.PNG])
 
 https://github.com/bopitien/Legacies-Group-HR-Analytics-SQL/blob/main/dashboard2.PNG
 
