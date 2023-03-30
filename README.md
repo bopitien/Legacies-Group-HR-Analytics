@@ -17,24 +17,36 @@ Legacies Group .
 
 ## key Insights
 
-A Total of 104 inactive / terminated employees which either
+• A Total of 104 inactive / terminated employees which either
 voluntarily terminated or terminated for a certain stated cause.
 88 Employees terminated voluntarily while 16 employees
 terminated for a stated cause.
+
+
 • The Top 3 employee termination reason are Another position
 offered, unhappiness and for more money. This implies that
 employees got job offers for another position, moved to jobs
 that made them feel happier or moved onto jobs with better
 pay.
+
+
 • The most terminations come from the production Department
 that is production Technician 1 and 2 positions. A total of 83
-terminated employees from the production Department.
+terminated employees from the production Department.  
+
+
 • Inactive / Terminated employees are mostly Us Citizens. They
 are either white or black / African American
+
+
 • Terminated employee by age groups are mostly early adults or
 Middle aged who are Mostly Married.
+
+
 • Terminated employees stayed an average of 3.4 years and up
 to a maximum of 9 years before termination.
+
+
 •Generally, employees who do well or fully meet the Job
 requirements accounts for the most terminated employees.
 This is likely caused by unhappiness in the role and poor salary
